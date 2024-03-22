@@ -1,8 +1,16 @@
 body {
-    background-color: #961313;
+    background-color: #296b29;
+}
+
+.lotto {
+    margin-top: 5%;
+    background-color: rgba(252, 252, 252, 0.1);
+    font-family: "Protest Riot", sans-serif;
+    border-radius: 20px;
 }
 
 .title {
-    color: #fcd7d2;
-    text-shadow: 2px 2px 2px black;
+    color: #102c09;
+    text-shadow: 2px 2px 2px rgb(207, 182, 36);
+    font-size: 4rem;
 }
