@@ -6,15 +6,29 @@ body {
     background-color: rgba(252, 252, 252, 0.1);
     font-family: "Protest Riot", sans-serif;
     border-radius: 20px;
+    width: fit-content;
+    align-items: center;
+    margin: 0 auto;
 }
 
 .title {
     color: #102c09;
     text-shadow: 2px 2px 2px rgb(207, 182, 36);
     font-size: 4rem;
-    font-family: "Protest Riot", sans-serif;
+    font-family: "Silkscreen", sans-serif;
 }
 
 .instruct {
-    margin-top: 
+    margin-top: 4%; 
+    background-color: rgba(252, 252, 252, 0.1);
+    font-family: "Protest Riot", sans-serif;
+    border-radius: 20px;
+    width: fit-content;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 150%;
+}
+
+p {
+    font-family: "Mulish", sans-serif;
 }
