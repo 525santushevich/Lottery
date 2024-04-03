@@ -3,32 +3,54 @@ body {
 }
 
 .lotto {
-    background-color: rgba(252, 252, 252, 0.1);
+    background-color: rgba(252, 252, 252, 0.075);
     font-family: "Protest Riot", sans-serif;
     border-radius: 20px;
     width: fit-content;
     align-items: center;
     margin: 0 auto;
+    border: 1px solid rgb(2, 34, 6);
+
 }
 
 .title {
     color: #102c09;
     text-shadow: 2px 2px 2px rgb(207, 182, 36);
-    font-size: 4rem;
-    font-family: "Silkscreen", sans-serif;
+    font-size: 6rem;
+    font-family: "Butterfly Kids", cursive;
 }
 
 .instruct {
     margin-top: 4%; 
-    background-color: rgba(252, 252, 252, 0.1);
-    font-family: "Protest Riot", sans-serif;
+    background-color: rgba(252, 252, 252, 0.075);
+    font-family: "Imbue", serif;
     border-radius: 20px;
     width: fit-content;
     align-items: center;
     margin: 0 auto;
-    font-size: 150%;
+    font-size: 180%;
+    border: 1px solid rgb(2, 34, 6);
+
 }
 
 p {
-    font-family: "Mulish", sans-serif;
+    font-family: "Imbue", serif;
+    margin-top: 2%;
+}
+
+.btn {
+    background-color: rgb(9, 68, 27);
+    color: white;
+    border: 1px solid rgb(2, 34, 6);
+}
+
+.btn:hover {
+    background-color: rgb(9, 68, 27);
+    color: white;
+    border: 1px solid rgb(2, 34, 6);
+}
+
+
+.stuff {
+    margin-top: 4%;
 }
